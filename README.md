@@ -10,7 +10,7 @@ This repository stores two miniprojects that were part of the final evalutation:
 - Project 2: implementation of an acoustic **OFDM** transmission system
 
 Each project consists in the implementation of a Matlab program and a report  
-The projects details can be found in `project-01.pdf` and `project-02.pdf`
+The projects details can be found in `project-01/assignment.pdf` and `project-02/assignment.pdf`
 ### Author 
 Gloria Dal Santo (co-author), gloria.dalsanto@outlook.it  
 M.Sc. in Electrical and Electronic Engineering at EPFL  
