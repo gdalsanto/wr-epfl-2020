@@ -4,7 +4,7 @@
 EE-442 Wireless Receivers: Algorithms and Architectures - M.Sc. in Electrical and Electronic Engineering at EPFL
 - Lecturer: Prof. Burg Andreas Peter
 - [Course description](https://edu.epfl.ch/coursebook/en/wireless-receivers-algorithms-and-architectures-EE-442)
-### Projects decription
+### Projects description
 This repository stores two miniprojects that were part of the final evalutation:
 - Project 1: implementation of an acoustic **single carrier** transmission system
 - Project 2: implementation of an acoustic **OFDM** transmission system
